@@ -1,8 +1,7 @@
-# -Optimizing-Workflow-Automation
-Title: Optimizing Workflow Automation: A Seamless Process Integration
+# Optimizing-Workflow-Automation
 
 Introduction:
-In today's business landscape, efficiency and automation play pivotal roles in ensuring streamlined operations and maximizing productivity. This article/presentation outlines the implementation of an automated workflow aimed at optimizing the process of data extraction, transformation, and analysis. Leveraging advanced technology, we have seamlessly integrated various tools to create a cohesive and efficient workflow.
+In today's business landscape, efficiency and automation play pivotal roles in ensuring streamlined operations and maximizing productivity. This project outlines the implementation of an automated workflow aimed at optimizing the process of data extraction, transformation, and analysis. Leveraging advanced technology, we have seamlessly integrated various tools to create a cohesive and efficient workflow.
 
 1. PDF Upload:
    - Users are required to upload the PDF document to a specific location designated for the process. This centralized approach ensures easy access and streamlined data management.
